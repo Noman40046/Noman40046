@@ -1,4 +1,4 @@
-![logo](https://github.com/Noman40046/Noman40046/blob/main/We%20are%20Hiring!.png)
+![logo](https://github.com/Noman40046/Noman40046/blob/main/Untitled%20design%20(7).png)
 <h1 align="center">Hi 👋, I'm Noman Dipto</h1>
 <h3 align="center">A passionate front-end web developer from Bangladesh</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nomandipto&label=Profile%20views&color=0e75b6&style=flat" alt="nomandipto" /> </p>
